@@ -3,11 +3,12 @@
 @tailwind utilities;
 
 /*Write Custom Classes Here*/
-@layer components {
+@layer base {
 
-  /*Example Class*/
-  .custom-class{
-    @apply flex bg-black w-full h-full
+
+  li {
+    @apply px-4;
+    @apply cursor-pointer;
   }
-  
+
 }
