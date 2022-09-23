@@ -25,8 +25,12 @@ Tech used React and Tailwind styling.
 
 
 # Optimizations/Future Features or Updates
-1)Add some animations to the pages to make each section more visually appealing. 
+1)Add some animations to make each section more visually appealing. 
+
+
 2)Auto scroll lock to each section
+
+
 3)Add clickable links to each Tech used linking to Tech documentation.
 
 
