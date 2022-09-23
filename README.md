@@ -1,26 +1,37 @@
-# Using This Template
+# My Portfolio Project
+This project is an updated portfolio to showcase my front-end skills. It includes my previous work history and a gallery of my completed projects!
 
-To use this template click the green button above labled "use this template",
-then clone it from your repository and run
-```
-npm install
-```
-After this, you're ready to go.
-
-## Available Scripts
-
-This template was created using create-react-app so you have acces to all of their commands.
-If you would like to learn more about these commands, you can find them [here](https://create-react-app.dev/docs/available-scripts).
-
-## Tailwind Config
-
-This template has no default configuration except for two primary color placeholders.
-If you would like to learn how to add your own configurations, you can find instructions [here](https://tailwindcss.com/docs/configuration).
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot (145)](https://user-images.githubusercontent.com/46611195/191871963-bb4622c5-d148-44e8-a69c-5a291b9de495.png)
 
 
+Link to project: https://leonardcanastra.netlify.app/
+
+
+
+
+# How It's Made:
+
+
+Tech used: React, Tailwind
+
+
+
+
+
+Tech used React and Tailwind styling.
+
+
+
+
+
+# Optimizations/Future Features or Updates
+1)Add some animations to the pages to make each section more visually appealing. 
+2)Auto scroll lock to each section
+3)Add clickable links to each Tech used linking to Tech documentation.
+
+
+
+
+
+# Lessons Learned:
+Doing this project allowed me to play around with React and Tailwind. Tailwind is a powerful tool and used in conjuction with React makes getting simple projects up and looking good a very quick process.
